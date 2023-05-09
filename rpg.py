@@ -177,9 +177,9 @@ zones = {
    },
           
   'a2': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'Horsefield',
+      DESCRIPTION: 'A field with white horses',
+      ABOUT:  'It appears some time ago, many strong and brave warriors dominated this land,\n and after war decided to rely on their 4 Legged fellas, providing shelter and resources for them,\n then the warriors died of a cruel flu and the horses survived, a fine lineage of 2 meter horses lays around here all day\n don´t mess with them or they´ll charge at you',
       SOLVED: False,
       
       UP: 'The edge of the World',
@@ -188,9 +188,9 @@ zones = {
       RIGHT:'a3',
    },
   'a3': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'the ladder to abyss',
+      DESCRIPTION: 'A giant abyss with an alleged ladder',
+      ABOUT:  'The abyss is scary, not many desire to approach\n this abyss has been object to many myths, the most famous one is about a ladder carrying bottom,\n many say it guides straight to hell, some others suggest said ladder ends fairly quick and you can´t go back, \n I prefer not to believe anything in particular',
       SOLVED: False,
       
       UP: 'The edge of the World',
@@ -199,9 +199,9 @@ zones = {
       RIGHT:'a4',
    },
   'a4': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'pond under the tree',
+      DESCRIPTION: 'a regular pond under a giant tree',
+      ABOUT:  'The tree is estimated to have at least 400 years, but no one cares much',
       SOLVED: False,
       
       UP: 'The edge of the World',
