@@ -199,9 +199,9 @@ zones = {
       RIGHT:'a4',
    },
   'a4': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'the lighthouse keeper´s shipyard',
+      DESCRIPTION: 'This place is full of misterious crap',
+      ABOUT:  'The place is from the old keeper, the guy knows everything from the island, he thaught me everything as well; he isn´t as bitter as he seems \n It´s ok to take anything from his shipyard, he tosses things there from time to time, just ask permission from him\n I think it´s better to ask him what he believes to be useful, He really has some amazing things',
       SOLVED: False,
       
       UP: 'The edge of the World',
@@ -210,9 +210,9 @@ zones = {
       RIGHT:'The edge of the World',
    },
   'b1': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'grass',
+      DESCRIPTION: 'grass',
+      ABOUT:  'grass',
       SOLVED: False,
       
       UP: 'a1',
@@ -221,9 +221,9 @@ zones = {
       RIGHT:'b2',
    },
   'b2': {
-      NAME: '',
-      DESCRIPTION: 'description',
-      ABOUT:  'about',
+      NAME: 'impenetrable crops',
+      DESCRIPTION: 'uncared crops that have been completely devoured in scrub',
+      ABOUT:  'You may be able to find something to eat here, but not really much to see.\n may be a passageway to somewhere else, but not many have the vision nor the guts to stand the thorns and bugs in here.',
       SOLVED: False,
       
       UP: 'a2',
